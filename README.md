@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Las tecnología de IOT están cada vez más presentes a nuestro alrededor, desde las pulseras de ejercicio hasta los sistems domóticos que tenemos en nuestras casas.
+Las tecnologías de IOT están cada vez más presentes a nuestro alrededor, desde las pulseras de ejercicio hasta los sistems domóticos que tenemos en nuestras casas.
 
 La integración de los sistemas IOT en el entorno profesional e industrial no sólo nos permite automatizar de una forma sencilla procesos que antes se hacían manualmente, sino que podemos medir y valorar la ganancia que se optiene para así optimizar el desempeño del sistema.
 
