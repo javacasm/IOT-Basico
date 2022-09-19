@@ -6,6 +6,9 @@
 
 40 horas 
 
+[https://bit.ly/iotbasico](https://bit.ly/iotbasico)
+
+
 ## Descripción
 
 Las tecnologías de IOT están cada vez más presentes a nuestro alrededor, desde las pulseras de ejercicio hasta los sistems domóticos que tenemos en nuestras casas.
