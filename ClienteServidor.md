@@ -15,7 +15,7 @@ Usamos los kits de 2 en 2.
 1. Los datos leídos se enviarán al monitor serie
 1. Usaremos el ejemplo LCD_DHT_webData
 
-![](./imagen/LCD_DHT_bb.png)
+![](./images/LCD_DHT_bb.png)
 
 #### Recolector
 
