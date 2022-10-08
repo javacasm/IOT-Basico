@@ -19,8 +19,8 @@ webESP32:
 		--template=./LaTeX_ES.latex    \
 		--reference-doc=plantilla_ESP32.docx \
 		-o  ESP32_web.docx  \
-		Cabecera.md \
-		Cabecera_latex.md \
+		Cabecera_ESP32.md \
+		Cabecera_latex_ESP32.md \
 		2.0.Hardware.md \
 		2.1.Kit_componentes_electrónicos.md \
 		3.0.2.Programacion_Bloques.md \
@@ -34,10 +34,9 @@ webESP32:
 		3.8.Wifi.md \
 		3.9.0.Web.md \
 		4.4.0.MQTT.md \
-		4.4.4.0.ThingSpeak \
-		4.4.1.ThingSpeak_mqtt.md \
-		4.4.4.1.ThingSpeak_MQTT_arduinoblocks \
-		4.4.5.Adafruit_IO_MQTT
+		4.4.4.0.ThingSpeak.md \
+		4.4.4.1.ThingSpeak_MQTT_arduinoblocks.md \
+		4.4.5.Adafruit_IO_MQTT.md
 	
 1:
 	pandoc --pdf-engine=xelatex   \
