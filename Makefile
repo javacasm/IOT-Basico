@@ -25,7 +25,8 @@ webESP32:
 		2.1.Kit_componentes_electrónicos.md \
 		3.0.2.Programacion_Bloques.md \
 		3.1.2.Instalacion_arduinoblocks.md \
-		3.2.Leds.md \
+		3.1.0.Instalacion_ESP32_arduino.md \
+		3.2.0.Leds.md \
 		3.3.Reles.md \
 		3.5.LCD.md \
 		3.6.Sensores_analogicos.md \
