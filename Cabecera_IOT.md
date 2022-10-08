@@ -1,9 +1,9 @@
-# INICIACIÓN A LA INSTALACIÓN Y MANTENIMIENTO DE SISTEMAS CONECTADOS A INTERNET (IOT) - CURSO BÁSICO
+# ROBÓTICA APLICADA AL AULA - IOT
+
 ## Versión 0.99
 
-
-
 ![Licencia CC by SA](./images/Licencia_CC_peque.png)  by @javacasm
+
 
 José Antonio Vacas Martínez
 

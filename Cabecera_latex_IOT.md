@@ -1,6 +1,6 @@
 ---
 title:
-  - INICIACIÓN A LA INSTALACIÓN Y MANTENIMIENTO DE SISTEMAS CONECTADOS A INTERNET (IOT) - CURSO BÁSICO
+  - ROBÓTICA APLICADA AL AULA - IOT
 author:
    - José Antonio Vacas Martínez
 date: \today
